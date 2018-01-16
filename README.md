@@ -17,3 +17,5 @@ I will updated this reposity as new projects emerge.
 Feel free to use it as reference.
 
 > In God we trust. All others must bring data. ~ W. Edwards Deming, statistician
+
+![MindBlowing](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
