@@ -14,7 +14,7 @@ Here you will find projects related to:
 - K-Means Clustering 
 - Natural Language Processing
 
-I will updated this reposity as new projects emerge.
+I will updated this repository as new projects emerge.
 
 Feel free to use it as reference.
 
