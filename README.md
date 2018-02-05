@@ -13,6 +13,7 @@ Here you will find projects related to:
 - Support Vector Machines
 - K-Means Clustering 
 - Natural Language Processing
+- Factorization Machines
 
 I will updated this repository as new projects emerge.
 
